@@ -63,16 +63,16 @@ Load factor — коэффициент загрузки:
 
 ### Результат
 
-## Добавление новой лицензии
+### Добавление новой лицензии
 <img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/f688ec1f-50cb-486c-8f15-a0bb15da1621" />
 
-**Поиск лицензии по ключу**
+### Поиск лицензии по ключу
 <img width="1115" height="666" alt="image" src="https://github.com/user-attachments/assets/2142bf8a-a2d7-4320-ae51-7083db2ba850" />
 
-**Удаление лицензии по ключу**
+### Удаление лицензии по ключу
 <img width="1115" height="704" alt="image" src="https://github.com/user-attachments/assets/b1338bcd-8de7-4474-a244-3f65daffd1bc" />
 
-**Вывод всей таблицы**
+### Вывод всей таблицы
 <img width="1115" height="704" alt="image" src="https://github.com/user-attachments/assets/99d21de3-bf4b-469e-9343-be72d3e785dc" />
 
 
