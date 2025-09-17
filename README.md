@@ -64,16 +64,23 @@ Load factor — коэффициент загрузки:
 ### Результат
 
 ### Добавление новой лицензии
-<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/f688ec1f-50cb-486c-8f15-a0bb15da1621" />
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/cbe1fe96-b736-4a43-bf9c-7b17af2901a4" />
+
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/27d2611e-e831-4a35-a8ec-a64e2cd56f7e" />
+
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/a575f176-797d-45ae-b07b-57d1a7c929e1" />
 
 ### Поиск лицензии по ключу
-<img width="1115" height="666" alt="image" src="https://github.com/user-attachments/assets/2142bf8a-a2d7-4320-ae51-7083db2ba850" />
+<img width="1115" height="400" alt="image" src="https://github.com/user-attachments/assets/285791b9-0fc3-4427-904b-00aeb987a45e" />
+
 
 ### Удаление лицензии по ключу
-<img width="1115" height="704" alt="image" src="https://github.com/user-attachments/assets/b1338bcd-8de7-4474-a244-3f65daffd1bc" />
+<img width="1115" height="704" alt="image" src="https://github.com/user-attachments/assets/16588099-2a81-40a7-a12b-84f2c728944c" />
+
 
 ### Вывод всей таблицы
-<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/72b4dfd7-3f21-4946-8ce0-dde961fc837a" />
+<img width="1115" height="495" alt="image" src="https://github.com/user-attachments/assets/0ee2fa6d-64c3-4a5c-af47-af8297f4e273" />
+
 
 
 
