@@ -73,7 +73,8 @@ Load factor — коэффициент загрузки:
 <img width="1115" height="704" alt="image" src="https://github.com/user-attachments/assets/b1338bcd-8de7-4474-a244-3f65daffd1bc" />
 
 ### Вывод всей таблицы
-<img width="1115" height="704" alt="image" src="https://github.com/user-attachments/assets/99d21de3-bf4b-469e-9343-be72d3e785dc" />
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/72b4dfd7-3f21-4946-8ce0-dde961fc837a" />
+
 
 
 
