@@ -61,4 +61,9 @@ Load factor — коэффициент загрузки:
 ### 📝 Файл:
 - **ConsoleApplication1** — код программы.
 
+### Результат
+
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/253bef3e-0638-4df3-ac44-eba5348f67fa" />
+
+
 
